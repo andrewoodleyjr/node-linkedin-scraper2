@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danieljoppi/node-linkedin-scraper2.git"
+    "url": "https://github.com/andrewoodleyjr/node-linkedin-scraper2.git"
   },
   "scripts": {
     "test": "gulp test",
@@ -14,9 +14,9 @@
   "author": "daniel.joppi@suiteplus.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danieljoppi/node-linkedin-scraper2/issues"
+    "url": "https://github.com/andrewoodleyjr/node-linkedin-scraper2/issues"
   },
-  "homepage": "https://github.com/danieljoppi/node-linkedin-scraper2#readme",
+  "homepage": "https://github.com/andrewoodleyjr/node-linkedin-scraper2#readme",
   "dependencies": {
     "jquery": "^2.1.3",
     "jsdom": "danieljoppi/jsdom#5.6.2",
